@@ -1,5 +1,5 @@
 IdeaHub
-Antares Rahman, Momin Javed, Alejandro Hernandez, George Sarkar
+by Antares Rahman, Momin Javed, Alejandro Hernandez, George Sarkar
 COM 212 Data Structures
 Instructor: Gary Parker
 October 16, 2014

@@ -1,0 +1,39 @@
+IdeaHub
+By Antares Rahman, Alejandro Hernandez, George Sarkar, and Momin Javed
+
+PROGRAM USER MANUAL
+This is a brief manual that describes how to use the different functions this program can perform.
+
+Compile and then run the file "IdeaHub.java".
+
+1) Adding a Student:
+Click the button Add Student in the main menu window. Fill out the required information. Remember that the SSN number and the student number needs to be 4 digits. After filling out the necessary information, click on the Add Student button. To add another student, simply enter the information of the new student, and click Add Student again. This can be done as many times as you like. After finishing adding the students, close the window.
+
+2) Adding an Idea:
+Click the button Add Idea in the main menu window. Fill out the required information. Please make sure that the SSN is accurate and belongs to a student who has already been added to the program. Click Add Idea. To add another idea, simply enter the information of the new idea, and click Add Idea again. This can be done as many times as you like. After finishing adding the ideas, close the window.
+
+3) Displaying the Student Record:
+Click the button Open Record in the main menu window. Enter the student's SSN, and:
+    1) Click Access Record to display all information for the student on a new window. Information can be modified, or
+    2) Click Last 10 Ideas to display the last 10 ideas of the student on the terminal.
+After finishing viewing the record, close down the Student Record window and the Access Student Record window.
+
+4) Modifying Student Information:
+Click the Open Record button in the main menu window. Enter the student's SSN. Click the button access record. A new window will pop up. To change the name or email login of a student, enter the student's new last name or new email login and click the appropriate change button.
+
+5) Deleting a Record:
+Access the Student record as described above. To delete the record, click the Delete Record button.
+
+6) Selling the Idea:
+Click the Sell Idea button in the main menu window. The best idea will be sold. You will receive a message that the idea has been sold.
+
+7) Displaying All the Students:
+To display the information of all the students, click the Display Student Information button. The information will be displayed in the terminal.
+
+8) Access the Best Idea:
+Click on Best Idea in the main menu window. The best idea in the current collection of ideas will be displayed. A window will pop up showing how many ideas are left and the description of the best idea.
+
+9) Access saved file:
+Click on Show Files in the main menu window to access the saved file containing previous data.
+
+

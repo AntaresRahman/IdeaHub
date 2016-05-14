@@ -1,4 +1,4 @@
-IdeaHub\n
+IdeaHub
 by Antares Rahman, Momin Javed, Alejandro Hernandez, George Sarkar
 COM 212 Data Structures
 Instructor: Gary Parker
